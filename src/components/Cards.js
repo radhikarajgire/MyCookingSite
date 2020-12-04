@@ -25,7 +25,10 @@ function Cards() {
                       label='To the Reciepe'
                       path='/services'
                         />
-                        <CardItem
+                        
+                        </ul>
+                          <ul className="cards__items">
+                          <CardItem
                     src='images/img-2.jpg'
                     text='Travel through the Islands of Bali in a Private Cruise'
                     label='To the Reciepe'
@@ -37,6 +40,9 @@ function Cards() {
                     label='To the Reciepe'
                     path='/services'
                         />
+
+
+                    
                
                     </ul>
                 </div>
